@@ -29,3 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Stopped on
 
 https://angular.io/tutorial/toh-pt5
+https://angular.io/tutorial/toh-pt5#routermoduleforroot pay attention
